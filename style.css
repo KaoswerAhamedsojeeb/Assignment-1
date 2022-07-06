@@ -1,0 +1,85 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    color: rgba(21, 20, 20, 0.833);
+    font-size: small;
+}
+
+#white-text {
+    color: white;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.home {
+    text-align: center;
+    background-image: url(donate-today-main/images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+}
+
+.home-text {
+    color: white;
+}
+
+.donate {
+    text-decoration: none;
+    background-color: rgb(255, 38, 0);
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: white;
+}
+
+.donate-process {
+    text-align: center;
+    padding-top: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.amount {
+    text-align: center;
+    display: flex;
+
+}
+
+#taka {
+    padding: 20px 100px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgba(188, 143, 143, 0.783);
+
+}
+
+#selact-taka {
+    background-color: rgba(249, 124, 102, 0.594);
+    font-size: 20px;
+    padding: 20px 100px;
+    font-weight: bold;
+    color: rgb(247, 97, 97);
+
+}
+
+#line {
+    text-align: center;
+}
+
+.donation-plan-text {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.our-service {
+    display: flex;
+    margin-left: 50px;
+    padding: 20px;
+}
